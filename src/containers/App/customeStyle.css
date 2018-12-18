@@ -1,0 +1,211 @@
+.ant-menu.ant-menu-light.ant-menu-root.ant-menu-horizontal{
+    margin-top: 3.5%;
+    background-color:#274767;
+    color:white;
+    padding: 0px;
+    width:100%;
+    display:inline-block;
+    text-align: center;
+    font-size: 16px;
+}
+.ant-menu-item{
+    margin-right: 50px;
+}
+.ant-menu-item .anticon,.ant-menu-submenu-title .anticon{
+    font-size: 20px !important;
+    vertical-align: -1.125em;
+}
+.jdINPE .ant-layout.isoContentMainLayout{
+    overflow-x: visible;
+    overflow: visible;
+}
+.isoContentMainLayout .isomorphicContent{
+    padding:0px !important;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.object-module .isoComponentTitle:before,.object-module .isoComponentTitle:after
+{
+    display: none;
+}
+.object-module .isoComponentTitle
+{
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #565656;
+}
+.object-module .isoComponentTitle~div
+{
+    color: #9e9e9e;
+    font-size: 14px;
+}
+.ant-menu-item span
+{
+    font-size: 14px;
+    width: 100%;
+}
+.ant-menu-item img
+{
+    width: 25px;
+}
+.ant-menu-item div
+{
+    line-height: 1;
+}
+.ant-menu .ant-menu-item
+{
+    padding: 20px;
+}
+.object-title > div
+{
+    margin-bottom: 35px;
+}
+.object-image img
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.table_id
+{
+    width: 10%;
+}
+.table_img
+{
+    width: 10%;
+    text-align: center
+}
+.table_cname
+{
+    width: 15%;
+}
+.table_name
+{
+    width: 40%;
+}
+.table_info
+{
+    width: 10%;
+}
+.table_actions
+{
+    width: 10%;
+}
+.ant-table-selection-column
+{
+    width: 5%;
+}
+.ant-table-content .ant-table-thead > tr > th
+{
+    background-color: transparent;
+}
+.ant-table-content .ant-table-thead > tr > th
+{
+    border-bottom:3px solid #ebeff2;
+    border-top: 1px solid #ebeff2;
+}
+.ant-layout .ant-btn.ant-btn-primary
+{
+    background-color: #5293d3;
+    color: #fff;
+}
+.ant-input-affix-wrapper.ant-input-search.search-input
+{
+    margin-bottom: 10px;
+}
+.ant-input-affix-wrapper.ant-input-search.search-input input
+{
+    background-color: #f1f1f1;
+    border:0px;
+}
+.ant-input-affix-wrapper.ant-input-search.search-input .ant-input:focus
+{
+    border-color: transparent;
+    box-shadow: none;
+}
+.ant-input-affix-wrapper.ant-input-search.search-input .ant-input-suffix
+{
+    left: 12px;
+    right: auto;
+}
+.ant-input-affix-wrapper.ant-input-search.search-input .ant-input-suffix i
+{
+    color:#565656;
+    font-size: 20px;
+}
+.ant-input-affix-wrapper.ant-input-search.search-input .ant-input:not(:last-child)
+{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.ant-input-affix-wrapper.ant-input-search.search-input .ant-input::placeholder
+{
+    color:#565656;
+    font-size: 14px;
+}
+.isoExampleWrapper
+{
+    position: relative;
+}
+.dd-icon
+{
+    position: absolute;
+    right: 15px;
+    top: 10px;
+}
+.ant-btn
+{
+    padding: 0px 20px;
+}
+@media (min-width: 576px)
+{
+    .container 
+    {
+        max-width: 540px;
+    }
+}
+@media (min-width: 768px)
+{
+    .container 
+    {
+        max-width: 720px;
+    }
+}
+@media (min-width: 992px)
+{
+    .container 
+    {
+        max-width: 960px;
+    }
+}
+@media (min-width: 1200px)
+{
+    .container 
+    {
+        max-width: 1140px;
+    }
+}
+@media (min-width: 1200px)
+{
+    .container 
+    {
+        max-width: 1140px;
+    }
+}
+@media (min-width: 1600px)
+{
+    .container 
+    {
+        max-width: 1540px;
+    }
+}
+
+
+
+
