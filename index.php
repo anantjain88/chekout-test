@@ -1,1 +1,6 @@
-<?php echo 'hello'; ?>
+
+<?php
+
+print_r('hello word');die;
+
+?>
