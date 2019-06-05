@@ -16,7 +16,7 @@ import Boot from "./redux/boot";
 
 const currentAppLocale =
   AppLocale[getCurrentLanguage(config.defaultLanguage || "english").locale];
-
+// start rendering dashapp
 const DashApp = () => (
   <LocaleProvider locale={currentAppLocale.antd}>
     <IntlProvider
