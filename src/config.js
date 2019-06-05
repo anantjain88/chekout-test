@@ -1,6 +1,7 @@
 export default {
   apiUrl: 'http://yoursite.com/api/'
 };
+
 const siteConfig = {
   siteName: 'ISOMORPHIC',
   siteIcon: 'ion-flash',
